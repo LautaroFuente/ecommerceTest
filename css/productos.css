@@ -1,0 +1,41 @@
+.card{
+    padding-top: 2rem;
+}
+
+.container-products{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter{
+    display: none;
+    
+}
+
+@media screen and (min-width: 768px) {
+    .container-products{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+        grid-gap: 20px;
+        place-items: center;
+        margin: 7rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .card{
+        border-bottom: solid 2px black;
+    }
+}
+
+@media  screen and (min-width: 1024px) {
+    .container-products{
+        margin: 9rem;
+    }
+}

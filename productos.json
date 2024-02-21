@@ -1,0 +1,57 @@
+{
+  "producto1": {
+    "id": 1,
+    "nombre": "Reloj Burk",
+    "precio": 49.99,
+    "calificacion": 4.2
+  },
+  "producto2": {
+    "id": 2,
+    "nombre": "Reloj Casio F91",
+    "precio": 19.99,
+    "calificacion": 4.5
+  },
+  "producto3": {
+    "id": 3,
+    "nombre": "Reloj Gadnic",
+    "precio": 29.99,
+    "calificacion": 4.0
+  },
+  "producto4": {
+    "id": 4,
+    "nombre": "Reloj Burk 1600",
+    "precio": 89.99,
+    "calificacion": 4.8
+  },
+  "producto5": {
+    "id": 5,
+    "nombre": "Reloj Casio W28",
+    "precio": 39.99,
+    "calificacion": 4.3
+  },
+  "producto6": {
+    "id": 6,
+    "nombre": "Reloj Casio W51",
+    "precio": 59.99,
+    "calificacion": 4.6
+  },
+  "producto7": {
+    "id": 7,
+    "nombre": "Reloj Seger",
+    "precio": 79.99,
+    "calificacion": 4.7
+  },
+  "producto8": {
+    "id": 8,
+    "nombre": "Reloj Tommy",
+    "precio": 99.99,
+    "calificacion": 4.9
+  },
+  "producto9": {
+    "id": 9,
+    "nombre": "Reloj Gadnic Cuarzo",
+    "precio": 69.99,
+    "calificacion": 4.4
+  }
+  }
+  
